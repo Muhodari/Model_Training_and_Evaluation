@@ -201,14 +201,14 @@ xgb_model = XGBClassifier(
 )
 ```
 
-## 📞 Contact
+## Contact
 
 **Student:** Sage Muhodari  
 **Course:** Introduction to Machine Learning  
 **Repository:** [GitHub - Model Training and Evaluation](https://github.com/Muhodari/Model_Training_and_Evaluation.git)  
 **Dataset:** [Credit Card Fraud Detection Dataset](https://media.githubusercontent.com/media/Muhodari/creditcardata/refs/heads/master/creditcard.csv)
 
-## 📄 License
+## License
 
 This project is part of academic coursework for Introduction to Machine Learning. All code and analysis are available for educational purposes.
 
