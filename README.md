@@ -1,15 +1,15 @@
 # Credit Card Fraud Detection: ML vs Deep Learning Comparison
 
-## 🎯 Project Overview
+## Project Overview
 
 This comprehensive study compares traditional machine learning and deep learning approaches for credit card fraud detection using a real-world dataset of 284,807 transactions. The research implements 6 traditional ML models and 4 deep learning models to identify the most effective approach for fraud detection in financial systems.
 
 ##  Key Results
 
 ### **Best Performing Models:**
-- **🥇 Best Overall:** Deep NN + BatchNorm (F1-Score: 0.6967, Accuracy: 99.87%)
-- **🥈 Best Traditional ML:** XGBoost (F1-Score: 0.5763, AUC: 98.27%)
-- **🥉 Runner-up:** Random Forest (F1-Score: 0.5773, AUC: 98.30%)
+- **Best Overall:** Deep NN + BatchNorm (F1-Score: 0.6967, Accuracy: 99.87%)
+- **Best Traditional ML:** XGBoost (F1-Score: 0.5763, AUC: 98.27%)
+- **Runner-up:** Random Forest (F1-Score: 0.5773, AUC: 98.30%)
 
 ### **Performance Highlights:**
 - **All models achieved high accuracy** (>94.8%)
@@ -17,7 +17,7 @@ This comprehensive study compares traditional machine learning and deep learning
 - **Traditional ML models** offered faster training and better interpretability
 - **Class imbalance successfully handled** with SMOTE oversampling
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
@@ -54,7 +54,7 @@ Model_Training_and_Evaluation/
     └── creditcard.csv
 ```
 
-## 📊 Dataset
+## Dataset
 
 ### **Credit Card Fraud Detection Dataset:**
 - **Source:** [Credit Card Fraud Detection Dataset](https://media.githubusercontent.com/media/Muhodari/creditcardata/refs/heads/master/creditcard.csv)
